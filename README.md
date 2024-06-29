@@ -65,13 +65,13 @@ _The model had a 3.3% correct completion rate so I wasn't willing to wait for it
 ![Experiment 10](/Experiment_10.png)
 * chi-squared: 7680.82
 * p-value: 0.0
-* interpretation: There is no chance the difference between this result and the expected 250/250/250/250 split can be explained by random chance. The results are therefore not random.
+* interpretation: There is no chance the difference between this result and the expected 10% split can be explained by random chance. The results are therefore not random.
 ### Experiment 11
 #### Prompt: `'Please pick uniformly at random between 1-10 inclusive. Output ONLY your choice 1-10. Dont just pick 7 everytime. Give every number an even shot.'`
 ![Experiment 10](/Experiment_11.png)
 * chi-squared: 2547.2
 * p-value: 0.0
-* interpretation: There is no chance the difference between this result and the expected 250/250/250/250 split can be explained by random chance. The results are therefore not random.
+* interpretation: There is no chance the difference between this result and the expected 10% split can be explained by random chance. The results are therefore not random.
 
 
 ## Conclusion
